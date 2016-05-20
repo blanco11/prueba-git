@@ -1,4 +1,4 @@
-/[Ll]Library/*
+/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -79,4 +79,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-proyecto1/Temp/UnityLockfile
+*/Temp/*
+*/Library/*
